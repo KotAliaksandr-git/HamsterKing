@@ -1,0 +1,13 @@
+﻿22:27:09  Starting Hamster King Tier Autopilot v1.20.
+22:27:09  Diagnostics: keeping the latest 5 sessions and 5 building screenshot pairs per session, plus the latest failed session.
+22:27:09  Game window found: 1920x1040.
+22:27:09  Selected mode: all. Target: Tier 5. Waiting for F8.
+22:27:11  Running. Do not move the mouse or switch windows.
+22:27:12  Building #1: map before_select screenshot saved: C:\Users\Администратор\Downloads\HamsterKing_Tier_Autopilot_V1_20_MINIMAL\logs\run_20261021_222709_115_9224\run_20261021_222709_115_9224_building_001_before_select.png. Window origin: 0,0; size: 1920x1040.
+22:27:12  Fresh map scan found 102 current Tier-1 marker(s).
+22:27:12  Building #1: selecting Tier-1 marker at 774,448.
+22:27:13  Building-research HOME button recognized at 1862,315.
+22:27:14  Building #1: map after_select screenshot saved: C:\Users\Администратор\Downloads\HamsterKing_Tier_Autopilot_V1_20_MINIMAL\logs\run_20261021_222709_115_9224\run_20261021_222709_115_9224_building_001_after_select.png. Window origin: 0,0; size: 1920x1040.
+22:27:14  Safe map exit points: research 1187,834; building 1189,837. Both checked independently.
+22:27:14  Building #1: upgrade transition 1/5.
+22:27:57  Game lost focus while waiting for 'research': paused automatically.

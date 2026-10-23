@@ -1,0 +1,6 @@
+{
+  "maxBuildings": 100,
+  "panelTimeoutSeconds": 25,
+  "stateTimeoutSeconds": 35,
+  "fightTimeoutSeconds": 90
+}

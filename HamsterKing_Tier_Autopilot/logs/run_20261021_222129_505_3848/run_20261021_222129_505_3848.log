@@ -1,0 +1,13 @@
+﻿22:21:29  Starting Hamster King Tier Autopilot v1.20.
+22:21:29  Diagnostics: keeping the latest 5 sessions and 5 building screenshot pairs per session, plus the latest failed session.
+22:21:29  Game window found: 1920x1040.
+22:21:29  Selected mode: all. Target: Tier 5. Waiting for F8.
+22:21:35  Running. Do not move the mouse or switch windows.
+22:21:35  Building #1: map before_select screenshot saved: C:\Users\Администратор\Downloads\HamsterKing_Tier_Autopilot_V1_20_MINIMAL\logs\run_20261021_222129_505_3848\run_20261021_222129_505_3848_building_001_before_select.png. Window origin: 0,0; size: 1920x1040.
+22:21:35  Fresh map scan found 221 current Tier-1 marker(s).
+22:21:35  Building #1: selecting Tier-1 marker at 531,176.
+22:21:37  Building-research HOME button recognized at 1862,319.
+22:21:44  Building #1: map after_select screenshot saved: C:\Users\Администратор\Downloads\HamsterKing_Tier_Autopilot_V1_20_MINIMAL\logs\run_20261021_222129_505_3848\run_20261021_222129_505_3848_building_001_after_select.png. Window origin: 0,0; size: 1920x1040.
+22:21:44  STOPPED SAFELY: No stable, independently verified road points were found for the two exit clicks.
+22:21:44  Diagnostic screenshot saved: C:\Users\Администратор\Downloads\HamsterKing_Tier_Autopilot_V1_20_MINIMAL\logs\run_20261021_222129_505_3848\unexpected_state_20261021_222144.png
+22:21:45  Run stopped. Buildings completed in this run: 0.

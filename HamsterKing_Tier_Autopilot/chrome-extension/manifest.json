@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Hamster King Tier Autopilot",
+  "version": "1.20.0",
+  "description": "Screen-based, user-controlled Hamster King tier automation for the active Chrome tab.",
+  "permissions": ["activeTab", "debugger", "storage", "downloads", "offscreen", "windows"],
+  "background": { "service_worker": "service-worker.js" },
+  "action": { "default_title": "Hamster King Tier Autopilot", "default_popup": "popup.html" },
+  "minimum_chrome_version": "116"
+}

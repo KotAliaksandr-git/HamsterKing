@@ -1,0 +1,6 @@
+{
+  "MaxBuildingsPerRun": 100,
+  "PanelTimeoutSeconds": 25,
+  "StateTimeoutSeconds": 35,
+  "FightTimeoutSeconds": 90
+}
