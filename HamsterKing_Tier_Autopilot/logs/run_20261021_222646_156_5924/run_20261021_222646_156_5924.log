@@ -1,9 +1,0 @@
-﻿22:26:46  Starting Hamster King Tier Autopilot v1.20.
-22:26:46  Diagnostics: keeping the latest 5 sessions and 5 building screenshot pairs per session, plus the latest failed session.
-22:26:46  Game window found: 1920x1040.
-22:26:46  Selected mode: all. Target: Tier 5. Waiting for F8.
-22:26:48  Running. Do not move the mouse or switch windows.
-22:26:49  Building #1: map before_select screenshot saved: C:\Users\Администратор\Downloads\HamsterKing_Tier_Autopilot_V1_20_MINIMAL\logs\run_20261021_222646_156_5924\run_20261021_222646_156_5924_building_001_before_select.png. Window origin: 0,0; size: 1920x1040.
-22:26:49  Fresh map scan found 105 current Tier-1 marker(s).
-22:26:49  Building #1: selecting Tier-1 marker at 801,399.
-22:27:02  Game lost focus while waiting for 'building_research': paused automatically.
